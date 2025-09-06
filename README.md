@@ -7,3 +7,5 @@ I analyzed a sales dataset to evaluate profit margins across different products,
 •	Insights: The analysis uncovered specific months with higher profit margins, indicating seasonal or promotional effects, and periods with lower margins, possibly due to increased costs or lower sales.
 # DATA SET
 https://1drv.ms/x/c/ea8457db2ab974a4/EcIpTA53ulNGoTR5OsgKDYEB7KFbWROIeFK4E4uzjIgzcA?e=paghjH
+# Dash board Image
+<img width="960" height="540" alt="powerbi project image" src="https://github.com/user-attachments/assets/226fca2d-e675-47fa-b356-fffbc0b44f01" />
