@@ -1,5 +1,5 @@
 # Detailed Description of the Project
-# In this project, 
+In this project, 
 I analyzed a sales dataset to evaluate profit margins across different products, categories, and over time. The key steps involved:
 •	Data Exploration: I started by examining the dataset's structure, data types, and basic statistics to understand the scope and quality of the data.
 •	Profit Margin Calculation: I computed the profit margin for each transaction by dividing profit by sales, then multiplied by 100 to express it as a percentage. This helped identify how profitable each sale was relative to its revenue.
